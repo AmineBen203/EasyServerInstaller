@@ -8,7 +8,7 @@
 <p align=justify><b>This program is a tool designed to assist users in installing various versions of Minecraft, including Forge and Vanilla. Please note that I do not own or claim ownership of any marketing images, logos, or the Minecraft versions themselves. All rights to these assets are owned by their respective creators and owners. This tool is provided solely for convenience and ease of use. It does not distribute, modify, or monetize any Minecraft content. Users should ensure that they have the appropriate permissions and licenses to use the versions of Minecraft they install with this tool.<b></p>
 
 <h2>Note 🤓</h2>
-<p>If you are facing a problem feel free and contact me</p>
+<p>If you are facing a problem feel free to contact me</p>
 <p align="center">
 <a href="https://twitter.com/bruce_wayne35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bruce_wayne35" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-amine-ben-ahmed-759121255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-ben-ahmed-759121255" height="30" width="40" /></a>
