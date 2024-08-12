@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt update -qq
 sudo apt install -y -qq jq curl
 
@@ -33,4 +35,4 @@ fi
 echo -e "running: curl -o server.jar $DOWNLOAD_URL"
 sudo curl -o server.jar $DOWNLOAD_URL 
 
-echo "Installation was successfully complete..."
+echo "Installation was successfully complete... :D"
