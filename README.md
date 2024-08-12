@@ -5,6 +5,6 @@
   <b>Minecraft server installer is an open source program let you install it easily on cloud shell services (such as google cloud shell etc...)👾</b>
 </p>
 <h2>Disclaimer ⚠️</h2>
-<p><b>This program is a tool designed to assist users in installing various versions of Minecraft, including Forge and Vanilla. Please note that I do not own or claim ownership of any marketing images, logos, or the Minecraft versions themselves. All rights to these assets are owned by their respective creators and owners. This tool is provided solely for convenience and ease of use. It does not distribute, modify, or monetize any Minecraft content. Users should ensure that they have the appropriate permissions and licenses to use the versions of Minecraft they install with this tool.<b>
+<p align=justified><b>This program is a tool designed to assist users in installing various versions of Minecraft, including Forge and Vanilla. Please note that I do not own or claim ownership of any marketing images, logos, or the Minecraft versions themselves. All rights to these assets are owned by their respective creators and owners. This tool is provided solely for convenience and ease of use. It does not distribute, modify, or monetize any Minecraft content. Users should ensure that they have the appropriate permissions and licenses to use the versions of Minecraft they install with this tool.<b>
 <br>This project still under development but you still can use it!
 <br>You can support me by giving a heart or buymeacoffee bellow</p>
